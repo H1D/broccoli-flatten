@@ -1,7 +1,7 @@
 {
   "name": "broccoli-flatten",
   "description": "Flatten file tree for Broccoli",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "author": "Artem Sushchev <Suschev.Artem@gmail.com>",
   "main": "index.js",
   "license": "MIT",
